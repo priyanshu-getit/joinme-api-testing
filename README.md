@@ -1,5 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue) 
 ![Pytest](https://img.shields.io/badge/Tested%20with-Pytest-green)
+![API](https://img.shields.io/badge/API-Testing-orange)
+
 
 
 # JoinMe API Testing (Security + Performance)
